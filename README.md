@@ -81,6 +81,7 @@ To know more, please connect with me on LinkedIn or E-Mail Id: samantray745@gmai
 ![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash-045&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Akash-045&count_private=true&theme=algolia&border_radius=20)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=prussian)   
 </div>
 <!--  End Stats Cards -->
 

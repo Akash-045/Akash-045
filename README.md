@@ -1,9 +1,14 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Akash Samantray </h1>
 
-![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
-
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a passionate, athletic, full stack software developer and occasional content creator. My aim is to make people's lives better & easier by developing applications and websites. I also love to teach coding as I believe that programming can empower people to achieve their full potential and live a better life. This is why I occasionally post coding and tech videos. Aside from that, I am a very athletic person as I regularly practice Olympic weightlifting and Powerlifting. Hence, I also occasionally post some sports content.
+    As a Junior Full-stack or Front-end Developer, I am passionate about building fully-fledged platforms with databases, servers, and clients. I have experience in building features such as add to cart, add to favourites, and delete items from the cart using React, TypeScript, and Redux. As a fresher, I am excited to develop my ability to collaborate with development teams and product managers to brainstorm software solutions and contribute to the design of client-side and server-side architecture.
+
+I have a strong foundation in developing web applications from scratch using HTML, CSS, React, and Redux technologies. I am also skilled in developing in both the backend and front end with the help of a mentor. Moreover, I possess excellent communication skills and the ability to work collaboratively in a team environment.
+
+As a fresher in this field, I am eager to learn and grow my skills further. I am adaptive to changing technology and open to taking on new challenges. I have a good understanding of Agile methodologies, GIT, Google Workspace, Slack, and Zoom.
+
+I am seeking opportunities to apply my skills and contribute to the development of innovative software solutions. 
+To know more, please connect with me on LinkedIn or E-Mail Id: samantray745@gmail.com.
 <br>
 <br>
 <div align="center">
@@ -76,7 +81,6 @@
 ![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash-045&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Akash-045&count_private=true&theme=algolia&border_radius=20)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-045&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
 
